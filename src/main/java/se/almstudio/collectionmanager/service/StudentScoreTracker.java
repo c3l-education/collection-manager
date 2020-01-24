@@ -1,9 +1,11 @@
 package se.almstudio.collectionmanager.service;
 
 import java.util.Scanner;
-
 public class StudentScoreTracker {
-  /*the program has a collection of students grade named "gradeScale". The user is asked to enter a grade between A and F and as output the program  prints number of grades in "gradeScale" which are the same as entered number*/
+
+  /*the program has a collection of students grade named "gradeScale".
+  The user is asked to enter a grade between A and F and as output the program
+  prints number of grades in "gradeScale" which are the same as entered number*/
   public static void main(String[] args) {
     /* the default grades collection*/
     char [][] gradeScale = {
