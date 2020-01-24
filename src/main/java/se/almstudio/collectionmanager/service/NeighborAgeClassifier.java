@@ -2,7 +2,7 @@ package se.almstudio.collectionmanager.service;
 
 public class NeighborAgeClassifier {
 
-  //print number of neighbors with the same age in a rows of table
+  //print number of neighbors with the same age in a row of table
   public static void main(String[]args) {
     int [][] neighborsInformation ={
       {10, 20, 30, 40, 50, 55, 60, 65, 70},
@@ -13,7 +13,7 @@ public class NeighborAgeClassifier {
   }
 
   /**
-   * show persons' age in a table
+   * show persons' with the same age in one row of a table
    * @param neighborsInformation neighbors' age and number of neighbors in each age
    * @return a table including neighbors' information
    */
