@@ -1,7 +1,7 @@
 package se.almstudio.collectionmanager.service;
 
 public class FishLengthAverageCalculator {
-  
+
   //print a collection of fish sizes and calculate the length average
   public static void main(String[]args){
     double sumAllFishSizes = 0;
