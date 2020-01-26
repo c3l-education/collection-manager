@@ -1,6 +1,6 @@
 package se.almstudio.collectionmanager.service;
 
-import java.util. Scanner;
+import java.util.Scanner;
 public class ExpenseCalculator {
 
   /*get number of days for driving car as the first input.
